@@ -13,9 +13,10 @@ namespace Human
             Console.WriteLine("I'm student. I'm study");
 
         }
-        public void ShowAge(age)
+        public void ShowAge()
         {
             Console.WriteLine($"I'm {age} years old");
         }
     }
 }
+ 
