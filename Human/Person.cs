@@ -8,7 +8,7 @@ namespace Human
 {
     public class Person
     { 
-        public int age { get; set; }
+        public int Age { get; set; }
 
         public void Great()
         {
@@ -17,7 +17,7 @@ namespace Human
         }
         public void SetAge(int age)
         {
-
+             Age = age;
         }
     }
 }

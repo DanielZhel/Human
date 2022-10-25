@@ -15,7 +15,7 @@ namespace Human
         }
         public void ShowAge()
         {
-            Console.WriteLine($"I'm {age} years old");
+            Console.WriteLine($"I'm {Age} years old");
         }
     }
 }
